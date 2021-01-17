@@ -12,7 +12,6 @@ window.io = io
 
 Vue.config.productionTip = false
 
-
 Vue.use(WebRTC)
 
 new Vue({
